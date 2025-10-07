@@ -20,7 +20,7 @@ document.addEventListener('mousedown', () => {
 });
 
 document.addEventListener('mouseup', () => {
-    cursor.classList.remove('clicking');
+    cursor.classList.remove('clicking');=
 });
 
 function animateCursor() {
